@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "position": "Developer-1"
+    },
+    {
+      "id": "2",
+      "name": "Nick",
+      "email": "nick@example.com",
+      "position": "Designer"
+    },
+    {
+      "id": "8789",
+      "name": "Rakshita",
+      "email": "rakshit@gmail.com",
+      "position": "Programmer"
+    },
+    {
+      "id": "aaa9",
+      "name": "Rakshit",
+      "email": "rakshit17@gmail.com",
+      "position": "Manager"
+    },
+    {
+      "id": "c059",
+      "name": "Megha",
+      "email": "abc@gmail.com",
+      "position": "Developer"
+    },
+    {
+      "id": "84ae",
+      "name": "sonali",
+      "email": "abc@gmail.com",
+      "position": "developer"
+    },
+    {
+      "id": "fc97",
+      "name": "dipak",
+      "email": "dipak@gmail.com",
+      "position": "scientist"
+    }
+  ]
+}
