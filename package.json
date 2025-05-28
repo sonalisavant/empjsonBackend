@@ -2,9 +2,9 @@
   "name": "my-empcrud-app",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx json-server db.json --host 0.0.0.0 --port $PORT"
-  },
-  "dependencies": {
+  "start": "chmod +x ./node_modules/.bin/json-server && npx json-server db.json --host 0.0.0.0 --port $PORT"
+},
+ "dependencies": {
     "json-server": "^0.17.4"
   }
 }
